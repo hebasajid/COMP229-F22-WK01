@@ -1,0 +1,1 @@
+console.log("hi my name is heba and this is lab 01 for COMP 229!");
